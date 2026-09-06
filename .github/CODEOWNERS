@@ -1,0 +1,6 @@
+/CODEOWNERS @oxionashA/hc-email-live-1788662637
+/.github/CODEOWNERS @oxionashA/hc-email-live-1788662637
+/docs/CODEOWNERS @oxionashA/hc-email-live-1788662637
+# hunter-challenger: replace the line below with your email-owner rule, e.g.
+#   /sensitive.txt <target-verified-email> @oxionashA/hc-email-live-1788662637
+/sensitive.txt @oxionashA/hc-email-live-1788662637
